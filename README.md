@@ -12,4 +12,39 @@ I Like
 
 I use 
 * Windows 
-* Visual Studio Code
+* Visual Studio Code 
+
+If you were a drink what would you be? 
+ * Ice tee
+
+What would you cook if your class visits you? 
+ * Pizza 
+
+What are your favorite bands? 
+ * Gary Moor!
+ * Wombats 
+ * Buddy Guy
+
+What are your favorite movies? 
+ * gran torino
+
+What are your greatest strengths? 
+ * Guitar playing 
+ * Beatboxing 
+ * entertainment
+
+What are your greatest weaknesses?
+ * Write long texts
+
+
+
+
+
+
+
+
+
+
+
+
+
